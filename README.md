@@ -167,11 +167,11 @@ Key              | system | subsystem | type  | notify  | Description
 \<Fn> + D        | ACPI   | DELL      | KEY   | FND     |
 \<Fn> + F        | ACPI   | DELL      | KEY   | FNF     |
 \<Fn> + G        | ACPI   | DELL      | KEY   | FNG     |
-                 | ACPI   | DELL      | EVENT | KBBLOFF | keyboard backlight is off
-                 | ACPI   | DELL      | EVENT | KBBLLV1 | keyboard backlight at level 1
-                 | ACPI   | DELL      | EVENT | KBBLLV2 | keyboard backlight at level 2
-                 | ACPI   | DELL      | EVENT | KBBLLV3 | keyboard backlight at level 3
-                 | ACPI   | DELL      | EVENT | KBBLLV4 | keyboard backlight at level 4
+&nbsp;           | ACPI   | DELL      | EVENT | KBBLOFF | keyboard backlight is off
+&nbsp;           | ACPI   | DELL      | EVENT | KBBLLV1 | keyboard backlight at level 1
+&nbsp;           | ACPI   | DELL      | EVENT | KBBLLV2 | keyboard backlight at level 2
+&nbsp;           | ACPI   | DELL      | EVENT | KBBLLV3 | keyboard backlight at level 3
+&nbsp;           | ACPI   | DELL      | EVENT | KBBLLV4 | keyboard backlight at level 4
 \<Fn> + \<F5>    | KBD    | KBDMXE    | KEY   | TPDTOGL | switch the touchpad on or off
 \<Fn> + \<F8>    | KBD    | KBDMXE    | KEY   | DSPSELN | select next display configuration
 \<WIN> + P       | KBD    | KBDMXE    | KEY   | DSPSELN | select next display configuration
